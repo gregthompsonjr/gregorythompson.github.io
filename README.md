@@ -1,2 +1,2 @@
 # gregorythompson.github.io
-GregoryThompson.net
+GregoryT.net
